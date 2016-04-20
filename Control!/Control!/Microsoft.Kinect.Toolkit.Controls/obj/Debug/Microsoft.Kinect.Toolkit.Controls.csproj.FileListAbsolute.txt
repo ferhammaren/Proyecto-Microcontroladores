@@ -1,0 +1,12 @@
+C:\Users\Ferhammaren\Google Drev\Daigaku\hachigakki!\Micro\proyectoCholo\Control!\.Debug\KinectInteraction180_32.dll
+C:\Users\Ferhammaren\Google Drev\Daigaku\hachigakki!\Micro\proyectoCholo\Control!\.Debug\KinectInteraction180_64.dll
+C:\Users\Ferhammaren\Google Drev\Daigaku\hachigakki!\Micro\proyectoCholo\Control!\.Debug\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\Ferhammaren\Google Drev\Daigaku\hachigakki!\Micro\proyectoCholo\Control!\.Debug\Microsoft.Kinect.Toolkit.Controls.pdb
+C:\Users\Ferhammaren\Google Drev\Daigaku\hachigakki!\Micro\proyectoCholo\Control!\Control!\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls.csprojResolveAssemblyReference.cache
+C:\Users\Ferhammaren\Google Drev\Daigaku\hachigakki!\Micro\proyectoCholo\Control!\Control!\Microsoft.Kinect.Toolkit.Controls\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Ferhammaren\Google Drev\Daigaku\hachigakki!\Micro\proyectoCholo\Control!\Control!\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls_MarkupCompile.cache
+C:\Users\Ferhammaren\Google Drev\Daigaku\hachigakki!\Micro\proyectoCholo\Control!\Control!\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls_MarkupCompile.lref
+C:\Users\Ferhammaren\Google Drev\Daigaku\hachigakki!\Micro\proyectoCholo\Control!\Control!\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Themes\Generic.baml
+C:\Users\Ferhammaren\Google Drev\Daigaku\hachigakki!\Micro\proyectoCholo\Control!\Control!\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls.g.resources
+C:\Users\Ferhammaren\Google Drev\Daigaku\hachigakki!\Micro\proyectoCholo\Control!\Control!\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\Ferhammaren\Google Drev\Daigaku\hachigakki!\Micro\proyectoCholo\Control!\Control!\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls.pdb

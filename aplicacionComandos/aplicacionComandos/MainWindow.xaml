@@ -1,0 +1,26 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:k="http://schemas.microsoft.com/kinect/2013" x:Class="aplicacionComandos.MainWindow"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+
+        <k:KinectSensorChooserUI HorizontalAlignment="Left" Margin="163,-2,0,0" VerticalAlignment="Top" Height="45" Width="179" RenderTransformOrigin="0.5,0.5">
+            <k:KinectSensorChooserUI.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform AngleY="2.588"/>
+                    <RotateTransform Angle="-3.145"/>
+                    <TranslateTransform Y="3.932"/>
+                </TransformGroup>
+            </k:KinectSensorChooserUI.RenderTransform>
+        </k:KinectSensorChooserUI>
+        <Label Content="IP" HorizontalAlignment="Left" Margin="25,75,0,0" VerticalAlignment="Top" Width="88"/>
+        <Label Content="Topic" HorizontalAlignment="Left" Margin="25,131,0,0" VerticalAlignment="Top"/>
+        <Label Content="Mensaje" HorizontalAlignment="Left" Margin="25,186,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="boxIP" HorizontalAlignment="Left" Height="26" Margin="88,75,0,0" TextWrapping="Wrap" Text="85.119.83.194" VerticalAlignment="Top" Width="124"/>
+        <TextBox x:Name="boxTopic" HorizontalAlignment="Left" Height="26" Margin="88,131,0,0" TextWrapping="Wrap" Text="KinectControl" VerticalAlignment="Top" Width="124"/>
+        <TextBox x:Name="boxMensaje" HorizontalAlignment="Left" Height="26" Margin="90,186,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="128" Text="encendido&#xD;&#xA;"/>
+
+    </Grid>
+</Window>
